@@ -286,10 +286,10 @@ function Footer() {
         component="a"
         target="_blank"
         rel="noopener"
-        href="https://github.com/serum-foundation/spl-token-wallet"
+        href="https://nimnordic.com"
         startIcon={<CodeIcon />}
       >
-        View Source
+        NIM Nordic
       </Button>
     </footer>
   );
