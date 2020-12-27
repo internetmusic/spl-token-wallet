@@ -274,7 +274,7 @@ function BalanceListItemDetails({ publicKey, balanceInfo }) {
                 target="_blank"
                 rel="noopener"
               >
-                View on Solana Explorer
+                View on NIM Explorer
               </Link>
             </Typography>
           </div>

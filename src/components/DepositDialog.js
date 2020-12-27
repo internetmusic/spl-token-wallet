@@ -126,7 +126,7 @@ export default function DepositDialog({
                 target="_blank"
                 rel="noopener"
               >
-                View on Solana Explorer
+                View on NIM Explorer
               </Link>
             </DialogContentText>
           </>
